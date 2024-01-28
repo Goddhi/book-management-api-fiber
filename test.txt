@@ -1,0 +1,5 @@
+1. Go Fiber: This is a popular open-source web framework built on top of Fasthttp, the fastest HTTP engine for Go. It's known for its:
+
+Speed and performance: It prioritizes minimal memory allocation and efficient use of resources, making it a fast and lightweight alternative to other frameworks.
+Simplicity and clarity: It follows a minimalist design philosophy inspired by Express.js, making it easy to learn and use even for beginners.
+API-friendliness: It's well-suited for building REST APIs and microservices with its focus on routing and request/response handling.
